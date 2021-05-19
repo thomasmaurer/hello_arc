@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Hello UBS
+          value: Hello Azure Arc!
